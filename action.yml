@@ -1,6 +1,6 @@
-name: 'Android Test Report Action'
-description: 'GitHub Action that prints Android test reports'
-author: 'Asad Mansoor'
+name: 'Android  Report Action'
+description: 'GitHub Action that prints Android test and Unit test reports'
+author: 'DoanPT'
 
 runs:
   using: 'docker'
