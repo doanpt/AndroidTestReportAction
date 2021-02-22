@@ -104,4 +104,4 @@ jobs:
 ## Sample Project
 
 To learn how to use this action in an Android application, check out the following example repository:
-https://github.com/doanpt/AndroidTestReportAction
+https://github.com/doanpt/FullTextSearch
