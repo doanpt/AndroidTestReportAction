@@ -1,6 +1,6 @@
 # Android Test Report Action
 
-[![Release](https://github.com/doanpt/AndroidTestReportAction/images/release_version.svg)](https://github.com/doanpt/AndroidTestReportAction/releases)
+[![Release](https://github.com/doanpt/AndroidTestReportAction/blob/main/images/release_verion.svg)](https://github.com/doanpt/AndroidTestReportAction/releases)
 [![Marketplace](https://img.shields.io/badge/GitHub-Marketplace-orange.svg)](https://github.com/marketplace/actions/android-report-action)
 
 GitHub Action that prints Android test xml reports.
