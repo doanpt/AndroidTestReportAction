@@ -16,7 +16,7 @@ touch $log_file
 
 for i in `find . -name "index.html" -type f`; do
     let num_files=num_files+1
-    python /usr/bin/extractReport.py "$i"
+    python3 /usr/bin/extractReport.py "$i"
     echo ''
 done
 
