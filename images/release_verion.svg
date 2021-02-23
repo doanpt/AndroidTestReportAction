@@ -1,11 +1,11 @@
 <svg xmlns:xlink="http://www.w3.org/1999/xlink"
-    aria-label="release: v1.0"
+    aria-label="release: v1.1"
     height="20"
     role="img"
     width="94"
     xmlns="http://www.w3.org/2000/svg">
 
-    <title>release: v1.0</title>
+    <title>release: v1.1</title>
 
     <linearGradient
         id="s"
@@ -80,14 +80,14 @@
             textLength="350"
             transform="scale(.1)"
             x="705"
-            y="150">v1.0</text>
+            y="150">v1.1</text>
 
         <text
             fill="#fff"
             textLength="350"
             transform="scale(.1)"
             x="705"
-            y="140">v1.0
+            y="140">v1.1
         </text>
     </g>
 </svg>

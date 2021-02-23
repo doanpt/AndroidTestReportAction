@@ -16,7 +16,7 @@ Add the following action to your GitHub Actions workflow.
 
 ```yml
 - name: Android  Report Action
-  uses: doanpt/AndroidTestReportAction@v1.0
+  uses: doanpt/AndroidTestReportAction@v1.1
 ```
 
 <br>
@@ -88,7 +88,7 @@ jobs:
         with:
           name: reports
       - name: Android  Report Action
-        uses: doanpt/AndroidTestReportAction@v1.0
+        uses: doanpt/AndroidTestReportAction@v1.1
         if: ${{ always() }} # IMPORTANT: run Android Test Report regardless
 ```
 
